@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyMiniSlot</string>
+    <string name="Reset">手持ちリセット</string>
+    <string name="Title">ミニスロットゲーム</string>
+    <string name="Have">手持ちコイン</string>
+    <string name="Bet">掛け金</string>
+    <string name="UpBet">掛け金UP</string>
+    <string name="DownBet">掛け金DOWN</string>
+    <string name="Start">スタート</string>
+    <string name="HaveMoney">1000</string>
+    <string name="BetCoin">10</string>
+    <string name="Stop1">Stop</string>
+    <string name="Stop2">Stop</string>
+    <string name="Stop3">Stop</string>
+    <string name="HaveCoin2">手持ちコイン</string>
+    <string name="BetCoin2">掛け金</string>
+    <string name="Back">戻る</string>
+    <string name="HavaMoney2">1000</string>
+    <string name="Bet2">10</string>
+    <string name="Yeah">イェーイ</string>
+</resources>
